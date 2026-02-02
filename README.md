@@ -137,7 +137,6 @@ Portifolio_Database-Modeling-SQL/
 | Recurso | Link |
 |--------|------|
 | **Repositório GitHub** | https://github.com/MSilva993/Portifolio_Database-Modeling-SQL |
-| **Vídeo Explicativo** | https://youtu.be/hFykY1a-nro |
 ```
 ---
 
